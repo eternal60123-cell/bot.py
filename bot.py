@@ -2,7 +2,7 @@ import logging
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
-TOKEN = "ВАШ_ТОКЕН_СЮДА"
+TOKEN = "8863529261:AAETqI4dolU6k-9eIxOPIxr3FL97xb9gDhg"
 SUB_URL = "https://raw.githubusercontent.com/eternal60123-cell/proxi/refs/heads/main/sub.txt"
 SUPPORT = "https://t.me/permanentlyyy"
 
